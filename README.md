@@ -23,7 +23,7 @@ Leverage resources at your local library for free resume-writing and ATS optimiz
 
 ## Best Practices
 ### ⌛ Timeline
-This is the timeline of how long it took me to land a ~$150k job between October 2025 and May 2026. 
+This is the timeline of how long it took me to land a 6-figure job between October 2025 and May 2026. 
 
 * **4 months** applying = 1st Interview
 * **7 months** applying = 1st Offer letter
