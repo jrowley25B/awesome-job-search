@@ -6,6 +6,7 @@ A curated list of resources to help you land your next role.
 ## Table of Contents
 - [Resume & Portfolio](#-resume--portfolio)
 - [Interview Preparation](#interview-preparation)
+- [Market & Salary Research](#-market--salary-research)
 - [Best Practices](#best-practices)
   - [Timeline](#-timeline)
   - [Networking Approach](#networking-approach)
@@ -20,6 +21,11 @@ Leverage resources at your local library for free resume-writing and ATS optimiz
 ## Interview Preparation
 * [LeetCode](https://leetcode.com) - Essential for technical rounds.
 * [Big Interview](https://biginterview.com) - Mock interview practice.
+
+## 📊 Market & Salary Research
+Know the market before you apply or negotiate: salary ranges, in-demand skills, and which companies are hiring for your target role.
+
+* [Superhighway Talent Research Agent](https://superhighway.walls.sh/guides/talent-research-agent) - Python agent that researches job-market demand, salary ranges, key skills, and hiring trends for any role using live web search. Generates structured briefs (salary bands, top skills in demand, geographic hubs) — useful for targeting roles and prepping salary negotiations. Pay-per-call, no signup.
 
 ## Best Practices
 ### ⌛ Timeline
