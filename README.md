@@ -15,6 +15,7 @@ A curated list of resources to help you land your next role.
 Leverage resources at your local library for free resume-writing and ATS optimization.  I saw great results from leveraging JobScan, specifically.  You can partner with them by contacting [Isaac Taylor](https://www.linkedin.com/in/isaactlr/) and telling him I sent you. 
 
 * [Jobscan.co](https://app.jobscan.co/dashboard) - Compare and generate resumes custom to the Applicant Tracking System (ATS) used for the posted Job Description. 
+* [JobEmerge](https://www.jobemerge.work/) - Check fit against a job description, edit or translate a resume, create cover letters, practice text-based mock interviews, and track applications.
 * [Resumake.io](https://resumake.io) - Simple LaTeX resume generator.
 
 ## Interview Preparation
